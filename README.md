@@ -16,6 +16,7 @@ Discord Badge Scraper, belirli kullanıcıların Discord rozetlerini toplamak i�
 git clone https://github.com/username/discord-badge-scraper.git
 cd discord-badge-scraper
 npm install
+```
 
 
 📜 Lisans

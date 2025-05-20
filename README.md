@@ -28,4 +28,4 @@ npm install
 Eğer bir hata ile karşılaşırsanız veya geliştirme sürecine katkıda bulunmak isterseniz, lütfen Instagram üzerinden üzerinden bildirin.
 enemyable
 
-💻 Geliştirici: moses
+💻 Geliştirici: oxopane
